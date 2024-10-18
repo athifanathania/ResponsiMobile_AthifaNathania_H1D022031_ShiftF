@@ -21,20 +21,18 @@
 #### c. Halaman List Tur
 <img src="list_tur.png" alt="Screenshot List Produk" width="300"/>
 
-#### d. Halaman Detail Tur
+#### d. Halaman Tambah Tur
+<img src="add_tur.png" alt="Screenshot Tambah Produk" width="300"/>
+<img src="add_tur(2).png" alt="Screenshot Tambah Produk" width="300"/>
+
+#### e. Halaman Detail Tur
 <img src="detail_tur.png" alt="Screenshot Detail Produk" width="300"/>
 
-#### e. Halaman Edit Tur
-**Sukses**
+#### f. Halaman Edit Tur
 <img src="edit_tur.png" alt="Screenshot Edit Produk" width="300"/>
-**Gagal**
-<img src="edit_tur_fail.png" alt="Screenshot Edit Produk" width="300"/>
-
-#### f. Halaman Tambah Tur
-**Sukses**
-<img src="add_tur.png" alt="Screenshot Tambah Produk" width="300"/>
-**Gagal**
-<img src="add_tur_fail.png" alt="Screenshot Tambah Produk" width="300"/>
+<img src="edit_tur(2).png" alt="Screenshot Edit Produk" width="300"/>
+<img src="edit_tur(3).png" alt="Screenshot Edit Produk" width="300"/>
 
 #### g. Hapus Tur
 <img src="delete_tur.png" alt="Screenshot List Produk" width="300"/>
+<img src="delete_tur(2).png" alt="Screenshot List Produk" width="300"/>
