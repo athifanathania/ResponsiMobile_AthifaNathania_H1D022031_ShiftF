@@ -1,0 +1,30 @@
+name: manajemenpariwisata
+description: "A new Flutter project for managing tourism data."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  http: ^0.13.4
+  shared_preferences: ^2.0.11
+  provider: ^6.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Arial
+      fonts:
+        - asset: assets/fonts/Arial-Regular.ttf
+        - asset: assets/fonts/Arial-Bold.ttf
+          weight: 700
